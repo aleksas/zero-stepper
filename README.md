@@ -8,3 +8,7 @@
 
 ## Raspberry PI Zero pinout
 ![raspberry-pi-zero-5](https://user-images.githubusercontent.com/594470/187777715-15d40e00-53cf-483e-ac36-389d274d0a97.png)
+
+# REFERENCES
+- [Raspberry Pi Stepper Motor Control through a Webpage using Flask](https://iotdesignpro.com/projects/raspberry-pi-stepper-motor-control-through-a-webpage-using-flask)
+- [Stm32f103 microcontroller controlling stepper motor by A4988 stepper motor driver module](https://www.engineersgarage.com/controlling-stepper-motor-with-stm32-microcontroller/)
