@@ -1,3 +1,10 @@
 # Raspberry PI Zero NEMA 17 stepper motor controller
-![Diagram](https://user-images.githubusercontent.com/594470/187776658-13fe6660-8622-4db7-8c1d-7e64fbe30fe1.svg)
+
+![diagram](https://user-images.githubusercontent.com/594470/187779323-2e85f7d7-7608-4e08-a014-9651e264aa2c.svg)
 [draw.io diagram file](./diagram.drawio)
+
+## A4988 Stepper motor controller wiring diagram
+![0J10073 600](https://user-images.githubusercontent.com/594470/187777209-da563bab-9ce7-474c-bea6-089b38323ec5.jpg)
+
+## Raspberry PI Zero pinout
+![raspberry-pi-zero-5](https://user-images.githubusercontent.com/594470/187777715-15d40e00-53cf-483e-ac36-389d274d0a97.png)
